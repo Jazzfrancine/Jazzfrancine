@@ -1,0 +1,22 @@
+# Dicionário Git
+1. **Git**: Um sistema de controle de versão distribuído amplamente utilizado para rastrear mudanças em arquivos e coordenar o trabalho entre várias pessoas em um projeto.
+
+2. **Repositório**: Um diretório no qual o Git armazena, controla e gerencia as versões dos arquivos. Ele pode ser local (no seu computador) ou remoto (em um servidor).
+
+3. **Branch**: Uma ramificação independente de desenvolvimento dentro de um repositório. É útil para trabalhar em recursos ou correções de bugs sem interferir diretamente no ramo principal (geralmente chamado de "master" ou "main").
+
+4. **Commit**: Uma ação no Git que registra as mudanças feitas em um arquivo ou conjunto de arquivos. Cada commit possui um identificador exclusivo e uma mensagem descritiva.
+
+5. **Merge**: A combinação de duas ou mais branches em um único ponto. O Git realiza a mesclagem das alterações feitas em diferentes branches para criar um novo commit que contém todas essas alterações.
+
+6. **Pull**: A ação de obter as alterações mais recentes de um repositório remoto e mesclá-las em seu repositório local. É frequentemente usado para atualizar seu ramo local com as alterações feitas por outras pessoas.
+
+7. **Push**: A ação de enviar seus commits locais para um repositório remoto. Isso atualiza o repositório remoto com as alterações feitas em seu repositório local.
+
+8. **Remote**: Um repositório Git em um servidor externo. Pode ser usado para colaboração com outras pessoas e compartilhamento de código.
+
+9. **Clone**: A ação de criar uma cópia local de um repositório remoto. Isso permite que você trabalhe com o repositório em seu próprio computador.
+
+10. **Fork**: A criação de uma cópia independente de um repositório remoto. É útil quando você deseja contribuir para um projeto, mas não tem permissões de gravação no repositório original.
+
+Esses são apenas alguns dos termos mais comuns usados no contexto do Git. Se você tiver alguma dúvida específica sobre algum termo ou quiser mais informações, sinta-se à vontade para perguntar.
